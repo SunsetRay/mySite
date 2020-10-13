@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 role: Incoming MSCS student at UCSD, Research Intern at Microsoft Research Asia
-avatar_filename: ""
+avatar_filename: img_20200919_101147.jpg
 bio: His research interests include Reinforcement Learning, Data Mining,
   Information Retrieval and Machine Learning.
 interests:
@@ -42,7 +42,4 @@ highlight_name: false
 title: Ziyan Luo
 email: z5luo@ucsd.edu
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ziyan Luo is an incoming student at UCSD. His research interests mainly include Reinforcement Learning, Data Mining, Information Retrieval, Natural Language Processing and Machine Learning. He was a research intern at MSRA (SRG, Bing), and a research assitant at Tsinghua University.
