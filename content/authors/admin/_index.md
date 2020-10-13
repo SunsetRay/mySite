@@ -6,12 +6,13 @@ superuser: true
 authors:
   - admin
 role: Incoming MSCS student at UCSD, Research Intern at Microsoft Research Asia
-avatar_filename: img_20200919_101147.jpg
+avatar_filename: avatar.jpg
 bio: His research interests include Reinforcement Learning, Data Mining,
   Information Retrieval and Machine Learning.
 interests:
   - Reinforcement Learning
   - Data Mining
+  - Recommender System
   - Information Retrieval
   - Machine Learning
 social:
@@ -42,4 +43,9 @@ highlight_name: false
 title: Ziyan Luo
 email: z5luo@ucsd.edu
 ---
-Ziyan Luo is an incoming student at UCSD. His research interests mainly include Reinforcement Learning, Data Mining, Information Retrieval, Natural Language Processing and Machine Learning. He was a research intern at MSRA (SRG, Bing), and a research assitant at Tsinghua University.
+Ziyan Luo is an incoming student at UCSD, MSCS. His research interests mainly include **Reinforcement Learning, Data Mining, Information Retrieval, Recommender System, Natural Language Processing (especially NLG) and Machine Learning**. 
+
+He was a research intern at MSRA (SRG, Bing), and a research assitant at Tsinghua University. 
+
+He is a music enthusiast who loves to create various genres of music with intended themes, [here](https://soundcloud.com/sunsetray) is his music portfolio. He also enjoys playing billiard, tennis, table tennis and music games.
+

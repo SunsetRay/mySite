@@ -1,0 +1,20 @@
+@inproceedings{rlmob_2021,
+ abstract = {Human mobility prediction is an important task in the field of spatiotemporal sequential data mining and urban computing. Despite the extensive work on mining human mobility behavior, little attention was paid to the problem of successive mobility prediction. At present, the state-of-the-art methods of human mobility prediction are mainly based on traditional machine learning and deep learning. 
+To achieve higher predictability and adapt well to the successive mobility prediction, there are four key challenges:
+1) disability to the circumstance that the optimizing target is discrete-continuous hybrid and non-differentiable. In our work, we assume that  the user's demands are always multi-targeted and can be modeled as a discrete-continuous hybrid function;
+2) difficulty to alter the recommendation strategy flexibly according to the changes in user needs in real scenarios; 
+3) error propagation and exposure bias issues when predicting multiple points in successive mobility prediction;
+4) cannot interactively explore user's potential interest that does not appear in the history.
+While previous methods met these difficulties, reinforcement learning (RL) is an intuitive answer for this task to settle these issues.
+To the best of our knowledge, this work is the first one to introduce RL to this task.
+In this paper, we formulate this problem as a Markov Decision Process.
+We further propose a framework - RLMob to solve our problem. A simulated environment is carefully designed. An actor-critic framework with an instance of Proximal Policy Optimization (PPO) is applied to adapt to our scene with a large state space.
+Experiments show that on the task, the performance of our approach 
+is consistently superior to that of the deep-learning-based approaches. },
+ author = {Luo, Ziyan and Miao, Congcong},
+ date = {2021},
+ langid = {english},
+ pages = {10},
+ title = {RLMob: Deep Reinforcement Learning for Successive Mobility Prediction}
+}
+

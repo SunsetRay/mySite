@@ -1,0 +1,9 @@
+@inproceedings{match_2021,
+ abstract = {To achieve good result quality and short query response time, search engines use specific match plans on Inverted Index to help retrieve a small set of relevant documents from billions of web pages. A match plan is composed of a sequence of match rules, which contain discrete match rule types and continuous stopping quotas. Currently, match plans are manually designed by experts according to their several years’ experience, which encounter difficulty in dealing with heterogeneous queries and varying data distribution. In this work, we formulate the match plan generation as a Partially Observable Markov Decision Process (POMDP) with a discrete-continuous hybrid action space, and propose a novel reinforcement learning algorithm Parameterized Action Soft Actor-Critic (PASAC) to effectively enhance the exploration in both spaces. We also introduce Stratified Prioritized Experience Replay (SPER) to address the challenge that the samples with high priority often center on a small range of the reward space. We are the first group to generalize this task for all queries as a learning problem with zero prior knowledge and successfully apply deep reinforcement learning in the real web search environment. Our approach greatly outperforms the well designed production match plans by over 70% reduction of index block accesses with the quality of documents almost unchanged, and 9% reduction of query response time even with model inference cost. Our method also beats the baselines on some open-source benchmarks.},
+ author = {Luo, Ziyan, ...},
+ date = {2021},
+ langid = {english},
+ pages = {10},
+ title = {Match Plan Generation in Web Search with Parameterized Action Reinforcement Learning}
+}
+
