@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: z5luo@ucsd.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SunsetRay_Ra
