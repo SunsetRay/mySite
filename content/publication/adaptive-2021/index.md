@@ -1,11 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Adaptive Prior-Dependent Correction Enhanced Reinforcement Learning for Natural Language Generation (In submission)
+title: Adaptive Prior-Dependent Correction Enhanced Reinforcement Learning for Natural Language Generation
 subtitle: ''
 summary: ''
 authors:
-- Ziyan Luo, ...
+- Wei Cheng
+- Ziyan Luo
+- Qiyue Yin
 tags: [Natural Language Generation, Reinforcement Learning, Adaptive Prior-Dependent Correction]
 categories: [NLP, RL]
 date: '2021-01-01'
@@ -48,5 +50,5 @@ abstract: "Natural language generation (NLG) is an important task with various a
   \ rollouts. Experiments show that, on three tasks of NLG (NMT, image captioning,\
   \ abstractive text summarization), our method consistently outperforms the state-of-the-art\
   \ RL-based approaches on different frequently-used metrics. "
-publication: ''
+publication: 'AAAI-21 (accepted)'
 ---
