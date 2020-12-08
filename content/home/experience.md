@@ -57,7 +57,7 @@ Spatio-temporal Trajectory Prediction
 - Supervised by Wang Jilong, chair of APAN
 - Processed human spatio-temperal trajectory data from publicly available GTSM datasets to capture key features of each preprocessed trajectory
 - Second author of the paper, which is accepted by WSDM 2020 (the top 7% midst 615 submissions, oral paper)
-
+- Now another work: RLMob is reviewed by top venues... 
 """
 
 
@@ -74,8 +74,8 @@ Spatio-temporal Trajectory Prediction
 Major in Computer Science
 
 - A BUPT scholarship recipient in each academic year
-- A member of YePeiDa Innovation College
-- GPA: 3.7/4
+- A member of YePeiDa Innovation College (top 60 students among 3600 undergraduates year-round)
+- GPA: 3.75/4
 
 """
 
