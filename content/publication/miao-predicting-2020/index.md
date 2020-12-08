@@ -36,7 +36,7 @@ publication_types:
 - '1'
 abstract: 'Predicting human mobility is an important trajectory mining task for various applications, ranging from smart city planning to personalized recommendation system.While most of previous works adopt GPS tracking data to model human mobility, the recent fastgrowing geo-tagged social media (GTSM) data brings new opportunities to this task. However, predicting human mobility on GTSM data is not trivial because of three challenges: 1) extreme data sparsity; 2) high order sequential patterns of human mobility and 3) evolving preference of users for tagging.'
 publication: '*Proceedings of the 13th International Conference on Web Search and
-  Data Mining* (WSDM'20)'
+  Data Mining* (WSDM 2020)'
 url_pdf: https://dl.acm.org/doi/10.1145/3336191.3371846
 url_dataset: https://sites.google.com/site/yangdingqi/home/foursquare-dataset
 url_slides: files/WSDM2020slide.pptx
