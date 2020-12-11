@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 role: Incoming MSCS student at UCSD, Research Intern at Microsoft Research Asia
-avatar_filename: avatar.jpg
+avatar_filename: img_20200919_101147-3-.jpg
 bio: His research interests include Reinforcement Learning, Data Mining,
   Information Retrieval and Machine Learning.
 interests:
@@ -47,5 +47,5 @@ Ziyan Luo is an incoming student at UCSD, MSCS. His research interests mainly in
 
 He was a research intern at MSRA (SRG, Bing), and a research assitant at Tsinghua University. 
 
-He is a music enthusiast who loves to create various genres of music with intended themes, [here](https://soundcloud.com/sunsetray) is his music portfolio. He also enjoys playing billiard, tennis, table tennis and music games.
+He is a music enthusiast who loves to create various genres of music with intended themes, [here](https://soundcloud.com/sunsetray) is his music portfolio. In creating music, he tries to impress people with a mixture of electronic music and symphony, and utilize such a style to convey intended themes. He also enjoys sports like billiard, Ping-Pong, and tennis.
 
