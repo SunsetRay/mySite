@@ -51,4 +51,5 @@ abstract: "Natural language generation (NLG) is an important task with various a
   \ abstractive text summarization), our method consistently outperforms the state-of-the-art\
   \ RL-based approaches on different frequently-used metrics. "
 publication: 'AAAI-21 (accepted)'
+url_pdf: files/APDC_AAAI21.pdf
 ---
