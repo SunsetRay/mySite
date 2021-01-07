@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The reviewer scores are 8,7,7,6.
+The reviewer scores are 8, 7, 7, 6. I feel honored that I will be the presenting author at the conference!
