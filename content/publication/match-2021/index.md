@@ -2,11 +2,20 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Match Plan Generation in Web Search with Parameterized Action Reinforcement
-  Learning (In submission)
+  Learning
 subtitle: ''
 summary: ''
 authors:
-- Ziyan Luo, ...
+- Ziyan Luo
+- Linfeng Zhao
+- Wei Cheng
+- Sihao Chen
+- Qi Chen
+- Hui Xue
+- Haidong Wang
+- Chuanjie Liu
+- Mao Yang
+- Lintao Zhang
 tags: [Deep Reinforcement Learning, Information Retrieval, Parameterized
 Action Soft Actor-Critic, Search Engine]
 categories: [RL]
@@ -51,5 +60,5 @@ abstract: To achieve good result quality and short query response time, search e
   with the quality of documents almost unchanged, and 9% reduction of query response
   time even with model inference cost. Our method also beats the baselines on some
   open-source benchmarks.
-publication: ''
+publication: '*The Web Conference 2021* (WWW 2021, Accepted)'
 ---
