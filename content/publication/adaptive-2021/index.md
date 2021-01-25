@@ -53,4 +53,5 @@ abstract: "Natural language generation (NLG) is an important task with various a
 publication: 'AAAI-21 (accepted)'
 url_pdf: files/APDC_AAAI21.pdf
 url_slides: files/apdc_15min.pptx
+url_poster: files/AAAI2021APDC-poster.pdf
 ---
