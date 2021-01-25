@@ -40,6 +40,6 @@ publication: '*Proceedings of the 13th International Conference on Web Search an
 url_pdf: https://dl.acm.org/doi/10.1145/3336191.3371846
 url_dataset: https://sites.google.com/site/yangdingqi/home/foursquare-dataset
 url_slides: files/WSDM2020slide.pptx
-url_poster: files/WSDM2020ACN-poster.pptx
+url_poster: files/WSDM2020ACN-poster.pdf
 doi: 10.1145/3336191.3371846
 ---
