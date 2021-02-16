@@ -61,4 +61,5 @@ abstract: To achieve good result quality and short query response time, search e
   time even with model inference cost. Our method also beats the baselines on some
   open-source benchmarks.
 publication: '*The Web Conference 2021* (WWW 2021, Accepted)'
+url_pdf: files/RL_MatchPlanGen_WWW2021_Proceeding.pdf
 ---
