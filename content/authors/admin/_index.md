@@ -1,12 +1,13 @@
 ---
 organizations:
-  - name: University of California, San Diego
+  - name: Mila, McGill University
     url: ""
 superuser: true
 authors:
   - admin
-role: Incoming MSCS student at UCSD, Research Intern at Microsoft Research Asia
-avatar_filename: img_20200919_101147-3-.jpg
+role: Incoming PhD student at Mila, McGill, Research Intern at Microsoft
+  Research Asia
+avatar_filename: avatar.jpg
 bio: His research interests include Reinforcement Learning, Data Mining,
   Information Retrieval and Machine Learning.
 interests:
@@ -18,7 +19,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:z5luo@ucsd.edu
+    link: mailto:luoziyanyan@outlook.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SunsetRay_Ra
@@ -30,9 +31,9 @@ social:
     link: https://github.com/SunsetRay/
 education:
   courses:
-    - course: MS in Computer Science
-      institution: University of California, San Diego
-      year: 2020
+    - course: Ph.D. in Computer Science
+      institution: Mila, McGill University
+      year: 2021
     - course: BEng in Computer Science
       institution: Beijing University of Posts and Telecommunications
       year: 2016
@@ -43,9 +44,8 @@ highlight_name: false
 title: Ziyan Luo
 email: z5luo@ucsd.edu
 ---
-Ziyan Luo is an incoming student at UCSD, MSCS. His research interests mainly include **Reinforcement Learning, Data Mining, Information Retrieval, Recommender System, Natural Language Processing (especially NLG) and Machine Learning**. 
+Ziyan Luo is an incoming PhD student at Mila, McGill. His research interests mainly include **Reinforcement Learning, Data Mining, Information Retrieval, Recommender System, Natural Language Processing (especially NLG) and Machine Learning**. 
 
 He was a research intern at MSRA (SRG, Bing), and a research assitant at Tsinghua University. 
 
 He is a music enthusiast who loves to create various genres of music with intended themes, [here](https://soundcloud.com/sunsetray) is his music portfolio. In creating music, he tries to impress people with a mixture of electronic music and symphony, and utilize such a style to convey intended themes. He also enjoys sports like billiard, Ping-Pong, and tennis.
-
