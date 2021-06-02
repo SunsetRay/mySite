@@ -18,15 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "MS Student"
-  company = "University of California, San Diego"
-  company_url = "https://www.ucsd.edu/"
-  location = "California"
+  title = "PhD Candidate"
+  company = "Mila, McGill University"
+  company_url = "https://mila.quebec/"
+  location = "Montreal, Quebec"
 
-date_start = "2020-09-01"
+date_start = "2021-09-01"
 date_end = ""
 
-  description = """Incoming master's student """
+  description = """
+  - PhD student
+  - It's my honor to work with [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi/).
+  """
 
 
 
