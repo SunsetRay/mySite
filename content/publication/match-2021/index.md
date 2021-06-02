@@ -65,4 +65,5 @@ url_pdf: files/RL_MatchPlanGen_WWW2021_Proceeding.pdf
 url_slides: files/pasac.pdf
 url_video: https://www.youtube.com/watch?v=trclQW0uS7U
 url_code: https://github.com/RL-matchplangeneration/Match-Plan-Generation-in-Web-Search
+doi: https://doi.org/10.1145/3442381.3449862
 ---
