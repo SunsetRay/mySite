@@ -54,4 +54,5 @@ publication: 'AAAI-21 (accepted)'
 url_pdf: files/APDC_AAAI21.pdf
 url_slides: files/apdc_15min.pptx
 url_poster: files/AAAI2021APDC-poster.pdf
+url_proceedings: https://ojs.aaai.org/index.php/AAAI/article/view/17504
 ---
