@@ -42,10 +42,10 @@ user_groups:
   - Visitors
 highlight_name: false
 title: Ziyan Luo
-email: z5luo@ucsd.edu
+email: ziyan.luo@mail.mcgill.ca
 ---
 Ziyan Luo is an incoming PhD student at Mila, McGill. His research interests mainly include **Reinforcement Learning, Data Mining, Information Retrieval, Recommender System, Natural Language Processing (especially NLG) and Machine Learning**. 
 
 He was a research intern at MSRA (SRG, Bing), and a research assitant at Tsinghua University. 
 
-He is a music enthusiast who loves to create various genres of music with intended themes, [here](https://soundcloud.com/sunsetray) is his music portfolio. In creating music, he tries to impress people with a mixture of electronic music and symphony, and utilize such a style to convey intended themes. He also enjoys sports like billiard, Ping-Pong, and tennis.
+He is a music enthusiast who loves to create various genres of music with intended themes, [here](https://soundcloud.com/sunsetray) is his music portfolio. In creating music, he tries to impress people with a mixture of electronic music and symphony, and utilize such a style to convey intended themes. He also enjoys sports like tennis, Ping-Pong, and billiard.
