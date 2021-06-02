@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Ether Forum System"
-summary: "Independently designed a forum system with C++/QT, fulfilling all basic functions with elegant interface and user-friendly interaction"
+summary: "Independently designed forum system with C++/QT, fulfilling all basic functions with elegant interface and user-friendly interaction"
 authors: [Ziyan Luo]
 tags: []
 categories: [Software Engineering]
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
