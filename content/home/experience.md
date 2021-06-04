@@ -28,7 +28,7 @@ date_end = ""
 
   description = """
   - PhD student
-  - It's my honor to work with [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi/).
+  - It's my honor to have the chance to work with [Prof. Xujie Si](https://www.cs.mcgill.ca/~xsi/)!
   """
 
 
